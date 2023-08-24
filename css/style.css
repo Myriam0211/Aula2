@@ -1,0 +1,20 @@
+p{
+ color:darkgray
+ font-family:  Helvetica;
+}
+
+#maisimportante {
+ color:red;   
+}
+
+Body{
+    margin:50px;
+    padding:10px;
+    background-color:violet;
+    
+}
+h1{
+    font-size: 80px;
+    border: 1px solid blue;
+    padding: 50px;
+}
