@@ -1,0 +1,55 @@
+Sequência lógica para tomar banho 
+
+1)Ver a roupa que vai usar
+2)Pegar a toalha
+3)Entrar no banheiro
+4)Tirar a roupa que está vestindo 
+5)Entar no box e ligar o chuveiro
+6)Se molhar
+7)Pegar no sabonete e passar no corpo
+8)Se enxaguar tirando o sabão do corpo
+9)Desligar o chuveiro
+10)Pegar a toalha e se enxugar
+11Sair do box
+12)Depois de seco vestir a roupa limpa
+13)Sair do banheiro
+
+
+Sequência lógica para lavar um carro
+
+1)Pegar o balde e o sabão
+2)Pegar um pano e uma esponja
+3)Encher o balde de água
+4)Pegar o sabão e colocar na água
+5)Pegar a esponja e molhar
+6)Depois de molhada, esfregar no carro
+7)Encher o balde
+8)Exaguar o carro
+9)Encher o balde
+10)Colocar sabão
+11)Fazer uma segunda ensaboada
+12)Esfregar o carro
+13)Encher o balde
+14)Exaguar o carro
+15)Pegar o pano
+16)Secar o carro
+17)Estacionar o carro e sair
+
+Um algorítimo para trocar uma lâmpada
+
+1)Tirar a lâmpada queimada
+2)Sair para comprar uma lâmpada nova
+3)Ver qual modelo de lãmpada comprar
+4)Levar ao caixa e pagar
+5)Sair da loja
+6)Depois de chegar em casa, entrar
+7)Pegar uma escada
+8)Posicionar a escada no lugar
+9)Subir nela e colocar a lâmpada
+10)Descer da escada
+11)Verifar se a lãmpada está funcionado
+12)Se estiver funcionando, tirar a escada do lugar e guardar
+13)Apagar a luz para economizar energia
+
+
+
