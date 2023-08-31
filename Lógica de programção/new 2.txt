@@ -1,0 +1,70 @@
+using System;
+
+
+        namespace Helloworld
+       {
+           class Program
+           {
+                static void Main(string[] args)
+                {
+                   /*Console.WriteLine("Nome: ");
+                    string nome = Console.ReadLine();
+                    Console.WriteLine("Nome digitado:" + nome);*/
+                    /*string carro = "Camaro";
+                    float preco = 15000F;
+                    
+                    Console.WriteLine("o carro {0} custa R${1} reais", carro, preco);
+                    
+                    const int n = 2000;
+                    Console.WriteLine(n);*/
+                    
+                
+                       /*const int taxaporroda = 2;
+                       int rodas;
+                       int valorpedagio;
+                       Console.WriteLine ("Quantas rodas tem seu veiculo?");
+                       rodas = Convert.ToInt32(Console.ReadLine());
+                       valorpedagio = rodas*taxaporroda;
+                       Console.WriteLine ("O valor do pedagio:"+ valorpedagio);*/
+                       
+                       
+                       /*int n1 = 10, n2 = 20;
+                       if (n1 > n2)
+                          Console.WriteLine("n1 maior");
+                         else
+                            Console.WriteLine("n2 maior ou igual");*/
+                       string nome;
+                       int idade;
+                       double altura, peso, imc;
+                       
+                       Console.WriteLine("Insira o seu nome");
+                       nome = Convert.ToString(Console.ReadLine());
+                      
+                      Console.WriteLine("Insira a sua idade");
+                      idade = Convert.ToInt32(Console.ReadLine());
+                      
+                      Console.WriteLine("Insira a sua altura");
+                      altura = Convert.ToDouble(Console.ReadLine());
+                      
+                      Console.WriteLine("Insira o seu peso");
+                      peso = Convert.ToDouble(Console.ReadLine());
+                      
+                      imc = peso/(altura*altura);
+                      
+                      Console.WriteLine("Nome: " +nome);
+                      Console.WriteLine("Idade: " +idade);
+                      Console.WriteLine("Altura: " +altura);
+                      Console.WriteLine("Peso: " +peso);
+                      Console.WriteLine("imc: "+imc);
+                      
+                      if (imc <18.5)
+                        Console.WriteLine("imc menor que a media");
+                        else if (imc>18.5 && imc<25)
+                        Console.WriteLine("imc normal");
+                        else 
+                        Console.WriteLine("imc maior que a media");
+                 }
+                
+           }
+           
+       }
