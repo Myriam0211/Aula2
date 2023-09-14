@@ -1,0 +1,26 @@
+using System;
+
+class program
+{
+       static void Main(string[] args)
+          {
+          // Console.WriteLine("Ola, Mundo");
+          // Console.WriteLine("Meu primeiro codigo em c#");
+           //Declaração de variaveis
+        double lado, area;
+        //Solicitamos ao usuario o lado do quadrado
+       Console.WriteLine("Digite o tamanho do lado do quadrado;");
+       //Lendo entrada do usuario
+       lado = Convert.ToDouble(Console.ReadLine());
+       //Calculando a area
+       area = lado * lado;
+        
+        
+        Console.WriteLine("A area do quadrado tem o tamanho;" +area);
+        
+        Console.ReadKey();
+        
+       }
+       
+       
+}
